@@ -1,0 +1,15 @@
+C:\Users\kelly\Documents\unopar\trabalho em grupo\marmitaria\vendor\laravel\framework\src\Illuminate\Validation\Validator.php
+é onde fica as funçoes de verificações:
+protected function validateCnpj($attribute, $value)
+
+
+====================================
+
+C:\Users\kelly\Documents\unopar\trabalho em grupo\marmitaria\resources\lang\en\validation.php
+é onde fica os menssagens de erro :
+'cnpj' => 'O CNPJ é inválido',
+
+=================================
+
+
+
